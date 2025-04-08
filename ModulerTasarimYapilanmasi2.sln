@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModulerTasarimYapilanmasi2", "ModulerTasarimYapilanmasi2\ModulerTasarimYapilanmasi2.csproj", "{7F68D94F-3496-4414-85B7-72C019DD05FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F68D94F-3496-4414-85B7-72C019DD05FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F68D94F-3496-4414-85B7-72C019DD05FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F68D94F-3496-4414-85B7-72C019DD05FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F68D94F-3496-4414-85B7-72C019DD05FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED41554-E4AF-45EB-9C8C-A233C08D272F}
+	EndGlobalSection
+EndGlobal
